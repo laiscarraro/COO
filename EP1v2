@@ -2,14 +2,13 @@
 // cd C:\Users\Andre\Desktop\3. Semestre\COO
 // javac EP1.java
 // java EP1
+// sa
 import java.text.SimpleDateFormat;
 import java.time.LocalDate;
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 import java.time.format.DateTimeParseException;
-import java.util.ArrayList;
-import java.util.Collection;
-import java.util.Scanner;
+import java.util.*;
 
 public class EP1 {
 	public static void main(String[] args) {
@@ -113,7 +112,9 @@ class MarcadorDeReuniao {
 	}
 	public void mostraSobreposicao() {
 		for(Participantes p : participantes) {
-			System.out.println(p.horariosDispo);
+			for (LocalDateTime h : p.horariosDispo) {
+				System.out.println(h.isAfter(h));
+			}
 		}
 	}
 	public void ordenar(){
@@ -125,7 +126,7 @@ class MarcadorDeReuniao {
 }
 class Participantes {
 	String email;
-	Collection<LocalDateTime> horariosDispo = new ArrayList<LocalDateTime>();
+	List<LocalDateTime> horariosDispo = new ArrayList<LocalDateTime>();
 	Participantes(String email){
 		this.email = email;
 	}
