@@ -1,0 +1,195 @@
+-----------------------------------
+O Marcador de reunião foi iniciado!
+-----------------------------------
+
+AJUDA:
+Com o marcador de reunião, você pode descobrir qual o melhor horário para a sua reunião em três passos:
+1 - Informe o e-mail de cada participante
+2 - Insira o intervalo de tempo em que você gostaria que a reunião ocorresse
+3 - Para cada participante, diga os horários disponíveis
+
+Para utiliza-lo, siga os passos indicados.
+
+Bem-vindo/a!
+
+Quantos participantes vão para a reunião?
+Número de participantes: 6
+E-mail do participante 1: laiscarraro@usp.br
+E-mail do participante 2: juliapassos@usp.br
+E-mail do participante 3: karinahuh@usp.br
+E-mail do participante 4: thais.lasso@usp.br
+E-mail do participante 5: amanda.venturin@usp.br
+E-mail do participante 6: yasmin.sanches@usp.br
+Digite o intervalo para marcar a reunião. (Formato: dd-MM-yyyy)
+Digite a data inicial: 17-10-2019
+Digite a data final: 23-05-2019
+Horário invalido!
+Digite a data inicial: 17-07-2019
+Digite a data final: 23-05-2019
+Horário invalido!
+Digite a data inicial: 17-05-2019
+Digite a data final: 23-05-2019
+Dentre 17-05-2019 e 23-05-2019, quais são os horários disponíveis para o participante laiscarraro@usp.br?
+(Formato: dd-MM-yyyy HH:mm)
+Inicio: 18-05-2019 10:00     
+Fim: 18-05-2019 20:00
+Mais algum horário para esse participante? (S/N)
+S
+Inicio: 20-05-2019 12:00
+Fim: 20-05-2019 15:00
+Mais algum horário para esse participante? (S/N)
+S
+Inicio: 21-05-2019 12:30
+Fim: 21-05-2019 19:00
+Mais algum horário para esse participante? (S/N)
+S
+Inicio: 22-05-2019 16:00
+Fim: 22-05-2019 19:00
+Mais algum horário para esse participante? (S/N)
+S
+Inicio: 23-05-2019 16:30
+Fim: 23-05-2019 19:00
+Mais algum horário para esse participante? (S/N)
+n
+-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+Dentre 17-05-2019 e 23-05-2019, quais são os horários disponíveis para o participante juliapassos@usp.br?
+(Formato: dd-MM-yyyy HH:mm)
+Inicio: 17-05-2019 18:00
+Fim: 17-05-2019 22:00
+Mais algum horário para esse participante? (S/N)
+s
+Inicio: 20-05-2019 16:00
+Fim: 20-05-2019 20:00
+Mais algum horário para esse participante? (S/N)
+s
+Inicio: 21-05-2019 12:30
+Fim: 21-05-2019 18:00
+Mais algum horário para esse participante? (S/N)
+s
+Inicio: 22-05-2019 14:00
+Fim: 22-05-2019 20:00
+Mais algum horário para esse participante? (S/N)
+s
+Inicio: 23-05-2019 14:00
+Fim: 23-05-2019 20:00
+Mais algum horário para esse participante? (S/N)
+n
+-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+Dentre 17-05-2019 e 23-05-2019, quais são os horários disponíveis para o participante karinahuh@usp.br?
+(Formato: dd-MM-yyyy HH:mm)
+Inicio: 18-05-2019 10:00
+Fim: 18-05-2019 12:00
+Mais algum horário para esse participante? (S/N)
+s
+Inicio: 20-05-2019 12:20
+Fim: 20-05-2019 14:00
+Mais algum horário para esse participante? (S/N)
+s
+Inicio: 20-05-2019 18:00
+Fim: 20-05-2019 20:00
+Mais algum horário para esse participante? (S/N)
+s
+Inicio: 21-05-2019 17:00
+Fim: 21-05-2019 18:20
+Mais algum horário para esse participante? (S/N)
+s
+Inicio: 22-05-2019 18:00
+Fim: 22-05-2019 21:00
+Mais algum horário para esse participante? (S/N)
+s
+Inicio: 23-05-2019 15:30
+Fim: 23-05-2019 18:00
+Mais algum horário para esse participante? (S/N)
+s
+Inicio: 23-05-2019 18:30
+Fim: 23-05-2019 19:00
+Mais algum horário para esse participante? (S/N)
+n
+-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+Dentre 17-05-2019 e 23-05-2019, quais são os horários disponíveis para o participante thais.lasso@usp.br?
+(Formato: dd-MM-yyyy HH:mm)
+Inicio: 17-05-2019 14:00
+Fim: 17-05-2019 20:00
+Mais algum horário para esse participante? (S/N)
+s
+Inicio: 20-05-2019 12:00
+Fim: 20-05-2019 13:30:00
+Ops! Os valores digitados são inválidos.
+Talvez você tenha errado o formato ou esquecido de digitar um horário.
+Inicio: 20-05-2019 13:30
+Fim: 20-05-2019 13
+Ops! Os valores digitados são inválidos.
+Talvez você tenha errado o formato ou esquecido de digitar um horário.
+Inicio: 20-05-2019 12:00
+Fim: 20-05-2019 13:30
+Mais algum horário para esse participante? (S/N)
+s
+Inicio: 22-05-2019 12:00
+Fim: 22-05-2019:14:00
+Ops! Os valores digitados são inválidos.
+Talvez você tenha errado o formato ou esquecido de digitar um horário.
+Inicio: 22-05-2019 15:00
+Fim: 22-05-2019 17:00
+Mais algum horário para esse participante? (S/N)
+s
+Inicio: 23-05-2019 14:00
+Fim: 23-05-2019 20:00
+Mais algum horário para esse participante? (S/N)
+n
+-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+Dentre 17-05-2019 e 23-05-2019, quais são os horários disponíveis para o participante amanda.venturin@usp.br?
+(Formato: dd-MM-yyyy HH:mm)
+Inicio: 12-05-2000 10:00
+Fim: 12-05-2000 11:00
+Horário inválido! A data não está dentro do intervalo definido.
+Inicio: 17-05-2019 15:00
+Fim: 17-05-2019 20:00
+Mais algum horário para esse participante? (S/N)
+s
+Inicio: 18-05-2019 14:00
+Fim: 18-05-2019 18:00
+Mais algum horário para esse participante? (S/N)
+s
+Inicio: 20-05-2019 12:30
+Fim: 20-05-2019 16:00
+Mais algum horário para esse participante? (S/N)
+s
+Inicio: 21-05-2019 13:00
+Fim: 21-05-2019 16:00
+Mais algum horário para esse participante? (S/N)
+s
+Inicio: 22-05-2019 14:00
+Fim: 22-05-2019 20:00
+Mais algum horário para esse participante? (S/N)
+s         
+Inicio: 23-05-2019 14:00
+Fim: 23-05-2019 20:00
+Mais algum horário para esse participante? (S/N)
+n
+-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+Dentre 17-05-2019 e 23-05-2019, quais são os horários disponíveis para o participante yasmin.sanches@usp.br?
+(Formato: dd-MM-yyyy HH:mm)
+Inicio: 17-05-2019 16:00
+Fim: 17-05-2019 20:00
+Mais algum horário para esse participante? (S/N)
+s
+Inicio: 20-05-2019 18:00
+Fim: 20-05-2019 20:00
+Mais algum horário para esse participante? (S/N)
+s
+Inicio: 21-05-2019 12:00
+Fim: 21-05-2019 14:00
+Mais algum horário para esse participante? (S/N)
+s
+Inicio: 22-05-2019 18:00
+Fim: 22-05-2019 20:00
+Mais algum horário para esse participante? (S/N)
+s
+Inicio: 23-05-2019 16:00
+Fim: 23-05-2019 19:00
+Mais algum horário para esse participante? (S/N)
+n
+-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+O horário ideal para a reunião é:
+23-05-2019 16:30 até 23-05-2019 18:00
+23-05-2019 18:30 até 23-05-2019 19:00
